@@ -1,8 +1,8 @@
 <h2 align="left">the real psygreg</h2>
 <p align="center">
   📹 Content creator on YouTube and hobbyist developer 🇧🇷<br>
-  🧑‍💻 **Bash** scripting enthusiast<br>
-  🐧 Creator of **LinuxToys** – a collection of custom tools designed to streamline and optimize the Linux experience.<br>
+  🧑‍💻 <b>Bash</b> scripting enthusiast<br>
+  🐧 Creator of <b>LinuxToys</b> – a collection of custom tools designed to streamline and optimize the Linux experience.<br>
   🧔 Just a bearded guy who loves to talk about tech, games, and Linux<br>
 </p>
 
