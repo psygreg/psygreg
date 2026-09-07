@@ -1,17 +1,4 @@
-<h2 align="left">psygreg</h2>
-<p align="center">
-  📹 Content creator on YouTube 🇧🇷<br>
-  🧑‍💻 <b>Bash</b> scripting and <b>Python</b> enthusiast developer 🐍<br> 
-  🐧 Creator of <b>LinuxToys</b> – a collection of custom tools designed to streamline and optimize the Linux experience.<br>
-  🧔 Just a bearded guy who loves to talk about tech, games, and Linux<br>
-</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psygreg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psygreg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+[![Psygreg's GitHub stats](https://github-stats-extended.vercel.app/api?username=psygreg)](https://github.com/stats-organization/github-stats-extended)
 
 ###
 
