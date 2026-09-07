@@ -1,4 +1,6 @@
+<div align="center">
 [![Psygreg's GitHub stats](https://github-stats-extended.vercel.app/api?username=psygreg)](https://github.com/stats-organization/github-stats-extended)
+</div>
 
 ###
 
