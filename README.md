@@ -1,4 +1,4 @@
-[![Psygreg's GitHub stats](https://github-stats-extended.vercel.app/api?username=psygreg)](https://github.com/stats-organization/github-stats-extended)
+[![Psygreg's GitHub Stats](https://github-stats-extended.vercel.app/api?username=psygreg&rank_icon=percentile&show_icons=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=percentile&show_icons=true&theme=transparent)
 [![Psygreg's Language Stats](https://github-stats-extended.vercel.app/api/top-langs?username=psygreg&layout=compact&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=4&theme=transparent)
 
 ###
