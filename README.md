@@ -1,4 +1,5 @@
 [![Psygreg's GitHub stats](https://github-stats-extended.vercel.app/api?username=psygreg)](https://github.com/stats-organization/github-stats-extended)
+[![Psygreg's Language Stats](https://github-stats-extended.vercel.app/api/top-langs?username=psygreg&layout=compact&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=4&theme=transparent)
 
 ###
 
